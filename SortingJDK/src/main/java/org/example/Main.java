@@ -3,6 +3,7 @@ package org.example;
 import java.util.Arrays;
 import java.util.Comparator;
 
+@SuppressWarnings("ComparatorCombinators")
 public class Main {
     public static Melon[] melons;
 
