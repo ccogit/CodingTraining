@@ -19,6 +19,8 @@
         <module>BiFunctions</module>
         <module>BiFunctions</module>
         <module>FunctionInterfaces</module>
+        <module>Patterns</module>
+        <module>FunctionInterfaces/Melon_Business</module>
     </modules>
 
     <properties>
