@@ -9,15 +9,18 @@ public class Converter {
 
         if (number > 999) return "-1";
 
-        result = result + HUNDREDS[number / 100];
-        number = number % 100;
+        // number = 558
+        result = result + HUNDREDS[number / 100]; // number / 100 = 5 -> HUNDRED[5] = "D"
+        number = number % 100; // number % 100 = 58
 
-        result = result + TENS[number / 10];
-        number = number % 10;
+        // number = 58
+        result = result + TENS[number / 10]; // number / 10 = 5 -> TENS[5] = "L"
+        number = number % 10; // number % 10 = 8
 
-        result = result + ONES[number];
+        // number = 8
+        result = result + ONES[number]; // ONES[8] = "VIII"
 
-        return result;
+        return result; // "DLVIII"
     }
 
 }

@@ -5,10 +5,14 @@
     <file url="file://$PROJECT_DIR$/BiFunctions/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Doors100/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Doors100/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FunctionInterfaces/Grouper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FunctionInterfaces/Grouper/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FunctionInterfaces/Melon_Business/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FunctionInterfaces/Melon_Business/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FunctionInterfaces/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/FunctionInterfaces/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Patterns/Factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Patterns/Factory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Patterns/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Patterns/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PrimeNumbers/src/main/java" charset="UTF-8" />
@@ -21,6 +25,19 @@
     <file url="file://$PROJECT_DIR$/RomanNumbers/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SortingJDK/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SortingJDK/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortingOther/BubbleSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortingOther/BubbleSort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortingOther/InsertionSort/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortingOther/InsertionSort/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortingOther/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortingOther/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/ActuatorEndpoints/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Streams/Reductions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Streams/Reductions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Streams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Streams/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StringsNumbersMath/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/StringsNumbersMath/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Teams8/src/main/java" charset="UTF-8" />

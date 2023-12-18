@@ -21,6 +21,13 @@
         <module>FunctionInterfaces</module>
         <module>Patterns</module>
         <module>FunctionInterfaces/Melon_Business</module>
+        <module>SortingOther</module>
+        <module>SortingOther/BubbleSort</module>
+        <module>SortingOther/InsertionSort</module>
+        <module>FunctionInterfaces/Grouper</module>
+        <module>SpringBoot</module>
+        <module>Streams</module>
+        <module>Streams/Reductions</module>
     </modules>
 
     <properties>
